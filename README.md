@@ -1,4 +1,4 @@
-# Alex Trahan
+# Alex T
 ### Full Stack Engineer · Autonomous systems & mission software
 
 I build the interfaces that turn complex systems into usable tools.
@@ -22,4 +22,4 @@ At **Ocean Aero**, I lead front end architecture and delivery for mission-contro
 
 My professional source code is not public. Repositories here include earlier academic work, personal experiments, and projects in progress.
 
-<sub>B.S. Computer Science · University of New Orleans</sub>
+<sub>B.S. Computer Science</sub>

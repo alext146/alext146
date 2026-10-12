@@ -1,16 +1,25 @@
-## Hi there 👋
+# Alex Trahan
+### Full Stack Engineer · Autonomous systems & mission software
 
-<!--
-**alext146/alext146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build the interfaces that turn complex systems into usable tools.
 
-Here are some ideas to get you started:
+At **Ocean Aero**, I lead front end architecture and delivery for mission-control software used with autonomous surface and subsurface vessels. My work brings together live telemetry, interactive maps, hardware controls, and React modernization—from implementation through field deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core tools:** React · TypeScript · Go · Python  
+**Focus:** Operator workflows · Geospatial visualization · Real-time data · Systems integration
+
+[Portfolio](https://alex-t.dev) · [Connect on LinkedIn](https://www.linkedin.com/in/alext146)
+
+---
+
+### Beyond the day job
+
+| Work | What I built |
+| :--- | :--- |
+| [**Trahan & Assoc.**](https://trahanassoc.com) | A live renovation-company website with a responsive project gallery and a full stack inquiry workflow. |
+| [**Echoes of Knox**](https://steamcommunity.com/sharedfiles/filedetails/?id=3757137484) | A published Project Zomboid mod: procedural storytelling, persistent events, and environmental investigation trails in Lua. |
+| [**Susceptible Fork**](https://steamcommunity.com/sharedfiles/filedetails/?id=3740728277) | A published Build 42 continuation with airborne infection mechanics, an exposure HUD, and mod compatibility work. Based on Susceptible by Mr Sunshine and contributors. |
+
+My professional source code is not public. Repositories here include earlier academic work, personal experiments, and projects in progress.
+
+<sub>B.S. Computer Science · University of New Orleans</sub>
